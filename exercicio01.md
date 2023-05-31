@@ -15,4 +15,5 @@ R= SGBD geralmente possui recursos de backup para garantir a disponibilidade dos
 R= representa os dados contidos em um Banco de Dados através das relações, ou seja, ele é nada mais que campos existentes em uma tabela.
 
 5. Em se tratando de Bancos de Dados Relacionais, qual a função da Chave Primária em uma tabela?<br>
+
 R= ela impede que os registros do usuário não fiquem iguais no banco de dados. 
